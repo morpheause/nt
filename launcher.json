@@ -1,5 +1,7 @@
-{
-    "ip": "1.1.1.1",
-    "background": "https://cdn.discordapp.com/attachments/749695651641819227/913860662801874964/background.jpg",
-    "updates": "195.85.201.205:8080/updates"
-}
+[
+    {
+        "ip": "1.1.1.1",
+        "background": "https://cdn.discordapp.com/attachments/749695651641819227/913860662801874964/background.jpg",
+        "updates": "195.85.201.205:8080/updates"
+    }
+]
