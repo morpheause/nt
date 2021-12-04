@@ -2,6 +2,7 @@
     {
         "ip": "195.85.201.193",
         "background": "https://cdn.discordapp.com/attachments/910817762509733908/914681879834279956/NTRP_Launcher_Arkaplan.jpg",
+        "webhook": "https://discord.com/api/webhooks/916607367200776282/zNgT0dV_WJ7rwnkQld548iVaBhl8ZTBrhqwc-Jv5jjCJwL5orUz7jtSG3n-udHffJ4E7",
         "updates": "195.85.201.205:8080/updates"
     }
 ]
