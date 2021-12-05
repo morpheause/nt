@@ -3,6 +3,8 @@
         "ip": "195.85.201.193",
         "background": "https://cdn.discordapp.com/attachments/910817762509733908/914681879834279956/NTRP_Launcher_Arkaplan.jpg",
         "webhook": "https://discord.com/api/webhooks/916618798050738186/492PjolQZxly4sxqND9d0r6oytHR2VYW6Gfr91MTntKQ1ODtIC5yJoA1KRFgXpruaoBt",
-        "updates": "195.85.201.205:8080/updates"
+        "updates": "195.85.201.205:8080/updates",
+        "wiki": "https://nt-rp.fandom.com/tr/wiki/NTRP_Wiki",
+        "tebex": "https://nt-rp.tebex.io/"
     }
 ]
